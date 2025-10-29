@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+
+# Credentials and sensitive files
+credentials.csv
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# AWS files
+.aws/
